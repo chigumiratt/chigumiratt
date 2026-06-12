@@ -37,7 +37,7 @@ I'm a passionate Software Developer and DevOps Engineer dedicated to building sc
 - Financial Technology (FinTech)
 - Cloud Computing
 - Automation
-- AI
+- Machine Learning
 
 ## ⚡ Fun Fact
 I enjoy turning complex business requirements into simple, reliable, and maintainable software solutions.
